@@ -4,9 +4,6 @@ Calculadora de Macros baseada no trabalho de Michael Matthews (BLS e TLS)
 
 # BMR = Taxa Metabólica Basal
 # TDEE = Total de Energia Gasta Diariamente
-# Calories_Intake = Calorias a serem ingeridas
-
-# BLS
 
 sexo = input('Você é homem ou mulher? ').capitalize()
 while not (sexo=='Homem') and not (sexo=='Mulher'):
